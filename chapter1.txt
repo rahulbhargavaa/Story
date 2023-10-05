@@ -1,1 +1,3 @@
-Hello, welcome to chapter one
+Hello, welcome to chapter one 
+Hey this is written because I am checking out the branch concept - blah blah blah....
+If you are seeing this in main branch it means user cmerge this alien plot branch into main branch
